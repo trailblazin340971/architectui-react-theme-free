@@ -267,6 +267,8 @@
       "react": "$react",
       "react-dom": "$react-dom",
       "react-onclickoutside": "6.13.0"
+    },
+    "@babel/plugin-transform-instanceof": "^7.27.0"
     }
   },
   "eslintConfig": {
